@@ -30,4 +30,19 @@ nav>div:nth-child(2)>a {
 
 section {
     text-align: center;
+    margin-top: 100px;
+}
+
+section>h1 {
+    font-size: 50px;
+}
+
+section>div {
+    margin: auto;
+    width: fit-content;
+}
+
+section>div>p {
+    text-align: right;
+    margin-top: 5px;
 }
