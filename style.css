@@ -66,3 +66,10 @@ section>div>p {
     top: 8px;
     background-color: white;
 }
+
+form {
+    display: grid;
+    grid-template-columns: repeat(2, 100px);
+    grid-template-rows: repeat(3, 100px);
+    justify-content: center;
+}
