@@ -1,5 +1,5 @@
 # Steven H's Personal Website
-Fullstack Academy Block 09 Personal Website
+Fullstack Academy Block 09 and 12 Personal Website
 
 ## From assignment page:
 1. GitHub repository, with:
@@ -25,3 +25,24 @@ An about page is a place for people to get to know you. You should include your 
 The portfolio page is the meat and potatoes of your personal site, here you want to include the projects you have worked on. For each project you wish to showcase, you should include the name of your project, a brief description, a screenshot, and a link to where it lives on the web.
 
 Note: You can use Lorem Ipsum for placeholder content, but it would be great if you included actual content.
+
+---
+
+## Block 12
+
+1. A GitHub project with a task board
+2. Detailed planning tickets with task descriptions for each one
+3. Updated GitHub repository with new commits
+4. An updated website with:
+    improved layouts using CSS grid/flex
+    proportional units
+    dynamic styling with hover effects
+5. A contact form with the following:
+    - These specific fields:
+        - name field
+        - email field
+        - message field
+        - submit button
+    - The correct attributes is somewhere on the website
+    - Functionality that when submitted should redirect to another HTML file containing a success message (The form does not need to send a real email when submitted)
+    - A functioning "submit" button.
