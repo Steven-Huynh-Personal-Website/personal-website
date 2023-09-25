@@ -70,14 +70,12 @@ section>div>p {
 form {
     display: grid;
     grid-template-columns: repeat(2, 100px);
-    grid-template-rows: repeat(3, 100px);
+    grid-template-rows: repeat(5, 100px);
     justify-content: center;
 }
 
-form>div:nth-child(5) {
-    grid-column-start: span 2;
-}
-
-form>div:nth-child(6) {
+form>div:nth-child(5),
+form>div:nth-child(6),
+form>div:nth-child(7) {
     grid-column-start: span 2;
 }
