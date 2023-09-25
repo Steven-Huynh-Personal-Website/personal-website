@@ -73,3 +73,11 @@ form {
     grid-template-rows: repeat(3, 100px);
     justify-content: center;
 }
+
+form>div:nth-child(5) {
+    grid-column-start: span 2;
+}
+
+form>div:nth-child(6) {
+    grid-column-start: span 2;
+}
