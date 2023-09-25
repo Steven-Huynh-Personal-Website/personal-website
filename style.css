@@ -72,6 +72,7 @@ form {
     grid-template-columns: repeat(2, auto);
     grid-template-rows: repeat(5, auto);
     justify-content: center;
+    grid-gap: 10px;
 }
 
 form>div:nth-child(5),
