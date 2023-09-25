@@ -98,4 +98,7 @@ textarea {
 }
 
 
+form>div:nth-child(7) input {
+    box-sizing: border-box;
+    width: 100%;
 }
